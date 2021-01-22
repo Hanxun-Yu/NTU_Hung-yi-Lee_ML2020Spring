@@ -18,8 +18,8 @@ data
     |--hw1  
     |--hw2
 
-// Homework document and Code
-homework  
+// Chapter document and Code
+chapter  
     |--1_<ChapterName>
         |--courseware.pdf
         |--homework_requirement.pdf  
