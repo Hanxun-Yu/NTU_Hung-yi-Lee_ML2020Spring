@@ -21,10 +21,13 @@ data
 // Chapter document and Code
 chapter  
     |--1_<ChapterName>
-        |--courseware.pdf
-        |--homework_requirement.pdf  
-        |--homework_reference_code.ipynb  
-        |--study_code.py (My Code)  
+        |--doc (course)
+            |--courseware.pdf
+            |--homework_requirement.pdf
+            |--homework_reference_code.ipynb
+        |--note (my)
+            |--note.pdf
+            |--study_code.py (My Code)  
     |--2_<ChapterName>
     .
     .
